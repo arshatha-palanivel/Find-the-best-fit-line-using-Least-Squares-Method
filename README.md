@@ -53,8 +53,7 @@ plt.show()
 ```
 
 ## Output:
-![](./![Screenshot 2023-09-13 202204](https://github.com/arshatha-palanivel/Find-the-best-fit-line-using-Least-Squares-Method/assets/118682484/4e1fca1f-dec4-40d0-8cf1-4ced9dec5d08)
-
+![](./![1 01](https://github.com/arshatha-palanivel/Find-the-best-fit-line-using-Least-Squares-Method/assets/118682484/f32cb2f2-6193-4d64-8583-942756096f86)
 
 
 
