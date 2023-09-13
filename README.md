@@ -52,7 +52,7 @@ plt.show()
 ```
 
 ## Output:
-![](./ML%2001.png)
+![](./1.01.png)
 
 
 ## Result:
